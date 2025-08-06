@@ -4,7 +4,7 @@
 
 
 ## 문의하기
-* 이메일 : ecogeo.dev@gmail.com
+* 이메일 : [ecogeo.dev@gmail.com](ecogeo.dev@gmail.com)
 <br/>
 
 ## 컨텐츠 출처
