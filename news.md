@@ -3,12 +3,12 @@
 ***  
 
 
-## 문의하기
+## 문의하기(Contact)
 * 이메일 : [ecogeo.dev@gmail.com](ecogeo.dev@gmail.com)
 <br/>
 
 
-## 컨텐츠 출처
+## 컨텐츠 출처(Content Source)
 * 경향신문
   * [https://m.khan.co.kr/](https://m.khan.co.kr/)
 * 국민일보
