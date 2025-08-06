@@ -4,7 +4,7 @@
 
 
 ## 문의하기(Contact)
-* 이메일 : [ecogeo.dev@gmail.com](ecogeo.dev@gmail.com)
+* 이메일 : [ecogeo.dev@gmail.com](mailto:ecogeo.dev@gmail.com)
 <br/>
 
 
